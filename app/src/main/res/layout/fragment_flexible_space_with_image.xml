@@ -19,13 +19,13 @@
             android:layout_height="wrap_content"
             android:paddingTop="24dp"
             >
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="071 999 12 34"
                 app:leftIcon="@drawable/ic_phone"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="044 777 12 34"
@@ -36,13 +36,13 @@
                 android:background="@color/divider"
                 android:layout_margin="@dimen/divider_padding"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="something@somewhere.com"
                 app:leftIcon="@drawable/ic_email"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="else@elsewhere.com"
@@ -54,13 +54,13 @@
                 android:layout_margin="@dimen/divider_padding"
                 />
 
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="Zuerich..."
                 app:leftIcon="@drawable/ic_location"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="New York..."

@@ -1,4 +1,4 @@
-package ch.swissonid.design_lib_sample.util;
+package ch.swissonid.design_lib_sample.utils;
 
 import android.support.v4.view.animation.FastOutSlowInInterpolator;
 

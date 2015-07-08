@@ -1,4 +1,4 @@
-package ch.swissonid.design_lib_sample.widget;
+package ch.swissonid.design_lib_sample.views.widgets;
 
 import android.content.Context;
 import android.content.res.TypedArray;

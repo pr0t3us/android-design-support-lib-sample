@@ -1,4 +1,4 @@
-package ch.swissonid.design_lib_sample;
+package ch.swissonid.design_lib_sample.activities;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -17,16 +17,17 @@ import android.view.WindowManager;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
+import ch.swissonid.design_lib_sample.R;
 import ch.swissonid.design_lib_sample.fragments.BaseFragment;
 import ch.swissonid.design_lib_sample.fragments.FlexibleSpaceWithImageFragment;
 import ch.swissonid.design_lib_sample.fragments.FlexibleSpaceFragment;
 import ch.swissonid.design_lib_sample.fragments.FloatingActionButtonFragment;
 import ch.swissonid.design_lib_sample.fragments.StandardAppBarFragment;
 import ch.swissonid.design_lib_sample.fragments.tabs.TabHolderFragment;
-import ch.swissonid.design_lib_sample.util.LogUtils;
-import ch.swissonid.design_lib_sample.util.Navigator;
+import ch.swissonid.design_lib_sample.utils.LogUtils;
+import ch.swissonid.design_lib_sample.utils.Navigator;
 
-import static ch.swissonid.design_lib_sample.util.LogUtils.LOGD;
+import static ch.swissonid.design_lib_sample.utils.LogUtils.LOGD;
 
 public class DrawerActivity extends AppCompatActivity implements DrawerLayout.DrawerListener
         , NavigationView.OnNavigationItemSelectedListener{

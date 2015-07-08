@@ -16,38 +16,38 @@
             android:layout_height="wrap_content"
             android:paddingTop="24dp"
             >
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"
                 app:leftIcon="@drawable/ic_folder"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"
                 app:leftIcon="@drawable/ic_folder"
                 />
 
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"
                 app:leftIcon="@drawable/ic_folder"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"
                 app:leftIcon="@drawable/ic_folder"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"
                 app:leftIcon="@drawable/ic_folder"
                 />
-            <ch.swissonid.design_lib_sample.widget.ListItem
+            <ch.swissonid.design_lib_sample.views.widgets.ListItem
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:text="@string/some_folder"

@@ -11,10 +11,10 @@ import android.view.ViewGroup;
 
 import butterknife.InjectView;
 import ch.swissonid.design_lib_sample.R;
-import ch.swissonid.design_lib_sample.adapters.PagerAdapter;
+import ch.swissonid.design_lib_sample.views.adapters.PagerAdapter;
 import ch.swissonid.design_lib_sample.fragments.BaseFragment;
 
-import static ch.swissonid.design_lib_sample.util.LogUtils.LOGD;
+import static ch.swissonid.design_lib_sample.utils.LogUtils.LOGD;
 
 /**
  * A simple {@link Fragment} subclass.

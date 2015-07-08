@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ch.swissonid.design_lib_sample.util;
+package ch.swissonid.design_lib_sample.utils;
 
 import android.support.annotation.IdRes;
 import android.support.annotation.NonNull;

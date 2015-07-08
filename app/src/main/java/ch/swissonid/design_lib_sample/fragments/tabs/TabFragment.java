@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 import butterknife.ButterKnife;
 import ch.swissonid.design_lib_sample.R;
-import ch.swissonid.design_lib_sample.adapters.MusicCardRVArrayAdapter;
+import ch.swissonid.design_lib_sample.views.adapters.MusicCardRVArrayAdapter;
 import ch.swissonid.design_lib_sample.fragments.BaseFragment;
 
 /**

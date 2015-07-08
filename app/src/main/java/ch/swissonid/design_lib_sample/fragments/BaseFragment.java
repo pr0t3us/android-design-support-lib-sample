@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import butterknife.ButterKnife;
-import ch.swissonid.design_lib_sample.DrawerActivity;
+import ch.swissonid.design_lib_sample.activities.DrawerActivity;
 import ch.swissonid.design_lib_sample.R;
 
 public abstract class BaseFragment extends Fragment {

@@ -1,4 +1,4 @@
-package ch.swissonid.design_lib_sample.util;
+package ch.swissonid.design_lib_sample.utils;
 
 import android.util.Log;
 

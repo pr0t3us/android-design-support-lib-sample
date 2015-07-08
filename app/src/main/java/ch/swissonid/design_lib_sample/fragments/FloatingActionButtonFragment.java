@@ -4,19 +4,15 @@ import android.os.Bundle;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.ViewCompat;
-import android.support.v4.view.ViewPropertyAnimatorListener;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import java.util.concurrent.atomic.AtomicBoolean;
-
 import butterknife.InjectView;
 import ch.swissonid.design_lib_sample.R;
-import ch.swissonid.design_lib_sample.adapters.RVArrayAdapter;
-import ch.swissonid.design_lib_sample.util.AnimUtils;
-import ch.swissonid.design_lib_sample.util.LogUtils;
+import ch.swissonid.design_lib_sample.views.adapters.RVArrayAdapter;
+import ch.swissonid.design_lib_sample.utils.AnimUtils;
 
 public class FloatingActionButtonFragment extends BaseFragment{
 

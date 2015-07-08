@@ -1,4 +1,4 @@
-package ch.swissonid.design_lib_sample.adapters;
+package ch.swissonid.design_lib_sample.views.adapters;
 
 import android.content.Context;
 import android.support.annotation.DrawableRes;
